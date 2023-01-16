@@ -9,4 +9,4 @@ if(!isset($user_id)){
     header('location:login.php');
 }
 
-include './include/footer.php';
+include './include/footer.php'; 
